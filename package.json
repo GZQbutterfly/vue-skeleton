@@ -1,0 +1,25 @@
+{
+  "name": "vue-skeleton",
+  "version": "1.0.0",
+  "description": "vue骨架屏结构",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GZQbutterfly/vue-skeleton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GZQbutterfly/vue-skeleton/issues"
+  },
+  "homepage": "https://github.com/GZQbutterfly/vue-skeleton#readme",
+  "dependencies": {
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
